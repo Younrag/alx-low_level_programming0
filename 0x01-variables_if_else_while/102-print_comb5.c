@@ -23,11 +23,11 @@ int main(void)
 						putchar(' ');
 						putchar(p);
 						putchar(l);
-						if (n != 57 || m != 56 || p != 57 || l != 57)
-						{
-							putchar(',');
-							putchar(' ');
-						}
+					if (n != 57 || m != 56 || p != 57 || l != 57)
+					{
+						putchar(',');
+						putchar(' ');
+					}
 					}
 				}
 			}
